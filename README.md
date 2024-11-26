@@ -1,1 +1,1 @@
-macvim
+vim, zed, gruvbox terminal
