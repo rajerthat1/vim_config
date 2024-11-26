@@ -1,0 +1,68 @@
+{
+  "scrollbar": {
+    "show": "never"
+  },
+
+  "theme": "GruvBox Borderless",
+  "terminal": {
+    "dock": "bottom",
+    "button": true
+  },
+  "confirm_quit": true,
+  "autosave": "on_focus_change",
+  "project_panel": {
+    "dock": "right",
+    "button": false
+  },
+  "outline_panel": {
+    "button": false
+  },
+  "features": {
+    "inline_completion_provider": "none",
+    "inline_completions": "none",
+    "show_inline_completions": "none",
+    "copilot": false
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "notification_panel": {
+    "button": false
+  },
+  "chat_panel": {
+    "button": false
+  },
+  "assistant": {
+    "enabled": true,
+    "provider": null,
+    "dock": "left",
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    "button": false,
+    "version": "2"
+  },
+  "cursor_blink": false,
+
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "vim_mode": false,
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_weight": 500,
+  "ui_font_family": "JetBrains Mono",
+  "format_on_save": "on",
+  "toolbar": {
+    "quick_actions": false,
+    "selections_menu": false,
+    "breadcrumbs": false
+  },
+  "cursor_shape": "block",
+  "tab_bar": {
+    "show_nav_history_buttons": false,
+    "show": true
+  },
+  "relative_line_numbers": true
+}

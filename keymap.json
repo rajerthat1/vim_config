@@ -1,0 +1,9 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-r": ["task::Spawn", { "task_name": "" }],
+      "cmd-k": ["workspace::ToggleRightDock", { "project_panel": "" }]
+    }
+  }
+]
